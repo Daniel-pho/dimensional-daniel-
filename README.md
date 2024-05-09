@@ -22,7 +22,7 @@ At Dimensional, every purchase is a personal journey. Our platform allows you to
            margin-left: auto;
            margin-right: auto;
            width: 70%"  
-      src="./docs/Homepage.PNG" 
+      src="./docs/Homepage.png" 
       alt="Tweet with 'Hello, World' written in the textarea">
 </img>
 </div>
@@ -32,7 +32,7 @@ At Dimensional, every purchase is a personal journey. Our platform allows you to
            margin-left: auto;
            margin-right: auto;
            width: 70%"  
-      src="./docs/Phonepage.PNG" 
+      src="./docs/Phonepage.png" 
       alt="Tweet with 'Hello, World' written in the textarea">
 </img>
 </div>
@@ -42,7 +42,7 @@ At Dimensional, every purchase is a personal journey. Our platform allows you to
            margin-left: auto;
            margin-right: auto;
            width: 70%"  
-      src="./docs/HeadphonesPage.PNG" 
+      src="./docs/HeadphonesPage.png" 
       alt="Tweet with 'Hello, World' written in the textarea">
 </img>
 </div>
@@ -52,7 +52,7 @@ At Dimensional, every purchase is a personal journey. Our platform allows you to
            margin-left: auto;
            margin-right: auto;
            width: 70%"  
-      src="./docs/PotatoPage.PNG" 
+      src="./docs/PotatoPage.png" 
       alt="Tweet with 'Hello, World' written in the textarea">
 </img>
 </div>
@@ -62,7 +62,7 @@ At Dimensional, every purchase is a personal journey. Our platform allows you to
            margin-left: auto;
            margin-right: auto;
            width: 70%"  
-      src="./docs/CartPage.PNG" 
+      src="./docs/CartPage.png" 
       alt="Tweet with 'Hello, World' written in the textarea">
 </img>
 </div>
@@ -86,7 +86,7 @@ As the visionary behind Dimensional, Jake brings boundless creativity and an unw
            margin-left: auto;
            margin-right: auto;
            width: 70%"  
-      src="./docs/AboutPage.PNG" 
+      src="./docs/AboutPage.png" 
       alt="Tweet with 'Hello, World' written in the textarea">
 </img>
 </div>
